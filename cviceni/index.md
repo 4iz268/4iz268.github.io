@@ -23,6 +23,21 @@ Přibližná náplň cvičení:
    * typické layouty a rozmístění prvků na stránce
    * pokročilejší vlastnosti CSS3
    * kontrola stylu pomocí validátoru CSS
+5. [Multimédia](05-multimedia/)
+   * formáty obrázků vhodné pro web
+   * základní úpravy obrázků v editoru -- ořez, zmenšení rozlišení, optimalizace
+   * úpravy vzhledu obrázku pomocí CSS
+   * vkládání zvuku a videa
+   * ikony a fonty
+6. [SVG](06-svg/)
+   * vložení SVG do stránky
+   * příprava SVG v grafickém editoru
+7. [Pokročilé techniky](07-pokrocile-techniky/)
+   * model animací a transformací používaný v CSS a SVG
+   * responzivní layout
+   * responzivní obrázky (SVG, <picture> element)
+   * formatovani stranky pro různá zařízení a pro tisk
+   * využití knihovny Bootstrap
    
   
   
