@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Základy HTML"
+title:  "Formuláře"
 ---
 
 *co se bude dělat na cvičení, zadání úkolů, ...*

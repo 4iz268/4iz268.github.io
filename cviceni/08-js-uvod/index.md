@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Základy HTML"
+title:  "JavaScript -- úvod"
 ---
 
 *co se bude dělat na cvičení, zadání úkolů, ...*
