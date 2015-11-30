@@ -8,8 +8,8 @@ napsanou čistě v JavaScriptu:
 * Po načtení úvodní stránky aplikace a jejím spuštění budou veškerá
   další data načítána pomocí techniky AJAX.
 
-* Aplikace bude ctít obvyklé webové zvyklosti -- například funkční
-  historie prohlížeče a v případech kdy to bude vhodné i uchovávání
+* V případech kdy to bude vhodné, bude aplikace bude obvyklé webové
+  zvyklosti -- například funkční historie prohlížeče či uchovávání
   stavu v adrese URL.
 
 * Aplikace poběží na serveru přístupném ze sítě Internet a zároveň
