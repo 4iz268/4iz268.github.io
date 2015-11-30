@@ -54,9 +54,14 @@ napsanou čistě v JavaScriptu:
 
 * Napište hru běžící v prohlížeči.
 
-## Příklady veřejně dostupných API, která lze využít
+## Příklady veřejně dostupných API, která lze využít ve vašich aplikacích
 
-TBD
+* [Google Drive REST API](https://developers.google.com/drive/web/about-sdk)
+* [Amazon S3 REST API](http://docs.aws.amazon.com/AmazonS3/latest/API/APIRest.html)
+* [Flickr API](https://www.flickr.com/services/api/)
+* [Twitter REST API](https://dev.twitter.com/rest/public)
+* [Office 365 API](https://msdn.microsoft.com/en-us/office/office365/howto/rest-api-overview#sectionlanguagesides)
+* [Přehled dalších API](https://www.publicapis.com/)
 
 
 
