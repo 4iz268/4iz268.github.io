@@ -50,7 +50,9 @@ napsanou čistě v JavaScriptu:
   komunikovat napřímo, ale pomocí existujícího REST API.
 
 * Napište aplikace, která vám umožní v off-line režimu psát emaily a
- po připojení k Internetu je automaticky odešle.
+  po připojení k Internetu je automaticky odešle.
+
+* Napište hru běžící v prohlížeči.
 
 ## Příklady veřejně dostupných API, která lze využít
 
