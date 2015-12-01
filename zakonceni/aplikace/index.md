@@ -3,12 +3,9 @@
 Pro úspěšné splnění požadavku je potřeba vytvořit webovou aplikaci
 napsanou čistě v JavaScriptu:
 
-* Aplikace bude fungovat na principu single-page application (SPA).
+* Aplikace bude vhodným způsobem využívat AJAX.
 
-* Po načtení úvodní stránky aplikace a jejím spuštění budou veškerá
-  další data načítána pomocí techniky AJAX.
-
-* V případech kdy to bude vhodné, bude aplikace bude obvyklé webové
+* V případech, kdy to bude vhodné, bude aplikace ctít obvyklé webové
   zvyklosti -- například funkční historie prohlížeče či uchovávání
   stavu v adrese URL.
 
@@ -18,16 +15,24 @@ napsanou čistě v JavaScriptu:
 * Pro samotné umístění aplikace lze využít školení server eso.vse.cz
   nebo jakýkoliv jiný.
 
-* Aplikaci je nutné *obhájit před cvičícím* -- buď v jeho konzultačních
-  hodinách, nebo na termínu dle přihlášení v ISISu.
+* Aplikaci je nutné *obhájit před cvičícím* na termínu dle přihlášení
+  v ISISu.
 
-* Zadání aplikace je vhodné dopředu konzultovat se cvičícím --
-  předejte tak nepříjemnému zklamání, když se u obhajoby můžete
-  dozvědět, že vaše zadání je příliš triviální.
+* Zadání aplikace vám dopředu musí schválit cvičící -- konkrétní
+  způsob schválení zadání vám sdělí cvičící (email/osobní/ISIS).
+
+* Stačí, když aplikace bude fungovat v nejnovějších prohlížečích.
+
+* Při psaní aplikace si můžete práci usnadnit pomocí existujících
+  JavaScriptových knihoven/frameworků, např. jQuery. 
 
 ## Příklady zadání aplikací
 
-* Napiště aplikaci, který umožní uživately nahrát do prohlížeče trasu
+Pro vaši práci si musíte sami vymyslet zadání, které vám schválí
+cvičící. Níže se pro inspiraci můžete podívat, jaké druhy aplikací lze
+psát.
+
+* Napište aplikaci, která umožní uživateli nahrát do prohlížeče trasu
   uloženou ve formátu GPX a následni ji vykreslete na mapovém
   podkladu. Umožněte obvyklé operace jako posun a zoomování mapy,
   spočítání délky trasy, vykreslení výškového profilu, atd. 
@@ -37,10 +42,10 @@ napsanou čistě v JavaScriptu:
   uloží do uložiště prohlížeče nebo na nějaké cloudové úložiště jako
   Google Drive.
 
-* Napiště aplikaci, která umožní snadné odesílání příspěvků do
+* Napište aplikaci, která umožní snadné odesílání příspěvků do
   několika sociálních sítí najednou.
 
-* Napiště aplikaci pro zobrazování příspěvků ze sociálních
+* Napište aplikaci pro zobrazování příspěvků ze sociálních
   sítí. Nabízí se mnoho variant -- například nějaké zajímavé zobrazení
   příspěvků od přátel, zobrazování příspěvků s určitým #hastagem atp.
 
