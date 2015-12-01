@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Požadavky na závěrečnou webovou aplikaci"
+---
+
 # Webová aplikace v JavaScriptu
 
 Pro úspěšné splnění požadavku je potřeba vytvořit webovou aplikaci
