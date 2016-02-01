@@ -3,6 +3,9 @@ layout: page
 title:  "Cvičení"
 ---
 
+Podrobnou náplň jednotlivých cvičení a ukázkové příklady najdete
+na serveru [https://github.com/4iz268/cviceni/tree/master](https://github.com/4iz268/cviceni/tree/master)
+
 Přibližná náplň cvičení:
 
 1. [Základy HTML](https://github.com/4iz268/cviceni/tree/master/01-html-uvod/)
