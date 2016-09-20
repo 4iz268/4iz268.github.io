@@ -17,6 +17,10 @@ KH viz <http://kosek.cz/vyuka/#kh>
 
 KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=15099>
 
+### doc. Ing. Vilém Sklenák, CSc. ###
+
+KH a kontakt viz: <http://insis.vse.cz/lide/clovek.pl?id=172>
+
 ### Ing. et Ing. Stanislav Vojíř ###
 
 KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=50712>
