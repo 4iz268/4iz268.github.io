@@ -13,7 +13,7 @@ Podmínkou pro úspěšné obsolvování předmětu je splnění následujícíc
 Z každého z požadavků 1–3 musíte navíc získat alespoň 50 % z
 maximálního počtu bodů.
 
-##<a name="test"></a> Závěrečný test 
+## <a name="test"></a> Závěrečný test
 
 Na termín testu je nutné se přihlásit pomocí systému ISISu. Pokud se
 bez omluvy nedostavíte ani na jeden z termínů testu, je vám předmět
