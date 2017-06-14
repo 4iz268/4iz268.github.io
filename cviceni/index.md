@@ -67,7 +67,5 @@ Přibližná náplň cvičení:
    * offline aplikace (appcache, service worker)
    * geolokace
    * další HTML5 API
-13. [Autentizace](https://github.com/4iz268/cviceni/tree/master/13-autentizace/)
-   * OAuth a využití existujících služeb pro přihlášení (pokud se stihne)   
 
 *Obsah jednotlivých cvičení se může lišit v závisloti na rychlosti jednotlivých skupin a harmonogramu aktuálního semestru.*
