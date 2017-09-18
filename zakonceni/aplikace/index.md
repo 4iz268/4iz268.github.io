@@ -71,7 +71,5 @@ psát.
 * [Flickr API](https://www.flickr.com/services/api/)
 * [Twitter REST API](https://dev.twitter.com/rest/public)
 * [Office 365 API](https://msdn.microsoft.com/en-us/office/office365/howto/rest-api-overview#sectionlanguagesides)
-* [Přehled dalších API](https://www.publicapis.com/)
-
-
-
+* [Přehled dalších API](https://www.programmableweb.com/apis/directory)
+* [A ještě jeden přehled API](https://any-api.com/)
