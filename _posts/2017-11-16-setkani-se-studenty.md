@@ -22,5 +22,5 @@ Průběh schůzky bude neformální.
 
 Těšíme se na setkání s Vámi!
 
-[Další informace o zakončení předmětu](http://kizi.vse.cz/schuzka-se-zajemci-o-obor-znalostni-a-webove-technologie-zwt/).
+[Další informace o schůzce](http://kizi.vse.cz/schuzka-se-zajemci-o-obor-znalostni-a-webove-technologie-zwt/).
 
