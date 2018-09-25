@@ -36,6 +36,11 @@
               {% else %}
                 <li><a href="{{ site.baseurl }}/zakonceni/">Zakončení</a></li>
               {% endif %}
+              {% if page.url == '/software/index.html' %}
+                <li class="active"><a href="{{ site.baseurl }}/software/">Software</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}/software/">Software</a></li>
+              {% endif %}
               {% if page.url == '/kontakty/index.html' %}
                 <li class="active"><a href="{{ site.baseurl }}/kontakty/">Kontakty</a></li>
               {% else %}
