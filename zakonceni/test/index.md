@@ -26,7 +26,7 @@ Před testem se studenti sami rozsadí podle následujícího schématu.
 ## Psaní testu v případě evakuace VŠE
 
 Pokud by v době psaní testu byla budova VŠE evakuována, píše se test
-v náhradní lokalitě, viz: https://mapy.cz/s/mugarejotu Čas začátku
+v náhradní lokalitě, viz: [https://mapy.cz/s/mugarejotu](https://mapy.cz/s/mugarejotu) Čas začátku
 testu je v tomto případě o 15 minut posunut.
 
 Tipy pro případ, že by tato situace nastala:
