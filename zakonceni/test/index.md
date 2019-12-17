@@ -1,9 +1,7 @@
 ---
 layout: page
-title:  "Požadavky na statické stránky"
+title:  "Závěrečný test"
 ---
-
-# Závěrečný test
 
 ## Přihlašování, hodnocení a opravy
 
