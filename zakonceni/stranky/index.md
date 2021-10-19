@@ -7,7 +7,7 @@ title:  "Požadavky na statické stránky"
 
 ## Termín a forma odevzdání
  * vaše statická HTML prezentace musí být volně dostupná na internetu
- * odevzdání do konce 7. týdne výuky dle pokynů v odevzdávárně v systému ISIS
+ * odevzdání do konce 9. týdne výuky dle pokynů v odevzdávárně v systému ISIS
  * maximálně lze získat 25 bodů
 
 ### Základní zadání
