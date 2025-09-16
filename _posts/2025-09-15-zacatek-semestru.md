@@ -2,7 +2,6 @@
 layout: post
 title: Přednášky na začátku semestru
 author: Jirka Kosek
-hidden: true
 ---
 
 V tomto semestru bohužel budu v době prvních třech přednášek
@@ -25,17 +24,17 @@ předmět si omluvit. No questions asked.
 
 Podívejte se na následující videa přednášek:
 
-* 
-* 
-* 
+* [Úvodní přednáška](https://youtu.be/EAuXXicHmJA?si=b3Ss0xzHl-qLlO9h&t=776) (od času 12:56)
+* [Kaskádové styly – úvod](https://youtu.be/eoOaE2JxEo8?si=bPWEqh-BCAmHt6_z)
+* [Kaskádové styly – pokračování](https://youtu.be/vWwBA4wd4Ag?si=cEKR3iYn-tIR8dk0)
 
 ## On-line konzultace
 
 Pokud byste k předmětu nebo shlédnutým přednáškám měli jakékoliv
-dotazy, je možné využít následující meeting a vše s přednášejícím
-probrat.
+dotazy, je možné využít následující meeting v úterý 7.10. od 11:00 a
+vše s přednášejícím probrat.
 
-* FIXME: link to Teams meeting
+* [Připojit se k meetingu](https://teams.microsoft.com/l/meetup-join/19%3a6uBMEE9H3esgBwW9tRWLA8RFf3B7GP-v3wjbQSR02YA1%40thread.tacv2/1758013934649?context=%7b%22Tid%22%3a%222b51a4b3-443f-4406-8ca4-19056a79a444%22%2c%22Oid%22%3a%2237ff66c7-1e69-482b-ab9d-6e4778ccb7e1%22%7d)
 
 ## Cvičení
 
